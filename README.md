@@ -1,6 +1,6 @@
 ﻿![screenshot](https://raw.github.com/figurehe4d/DarkProcessingTheme_3.0/master/screenshot.png)
 
-Dark Processing Theme (for 3.0): Zerum Recolor
+Dark Theme for Processing 3.0: Zerum Recolor
 ===================
 
 A text recolor for use with [Dark Theme for Processing 3.0](https://github.com/jeffThompson/DarkProcessingTheme_3.0) by [jeffThompson](http://www.jeffreythompson.org). 
