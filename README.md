@@ -7,9 +7,10 @@ A text recolor based off of [Dark Theme for Processing 3.0](https://github.com/j
 
 code snippet taken from [InterConnectivity](https://www.openprocessing.org/sketch/174460) by [Michael Pinn](https://www.openprocessing.org/user/39442).
 
-The following installation instructions remain unchanged:
+
 
 \- \- \-
+The following installation instructions remain unchanged:
 
 ## MAC INSTALLATION  
 **PREFERENCES.TXT**  
