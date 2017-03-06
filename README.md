@@ -10,7 +10,7 @@ code snippet taken from [InterConnectivity](https://www.openprocessing.org/sketc
 
 
 \- \- \-
-The following installation instructions remain unchanged:
+The installation instructions remain unchanged:
 
 ## MAC INSTALLATION  
 **PREFERENCES.TXT**  
