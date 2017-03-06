@@ -42,9 +42,6 @@ You also can achieve the same result without having to change the rest of your p
 `editor.token.literal1.style=#78909c,plain`
 `editor.token.literal2.style=#c0ca33,plain`
 `editor.token.operator.style=#607d8b,plain`
-
-and
-
 `run.window.bgcolor=#bdbdbd`
 
 \- \- \-
