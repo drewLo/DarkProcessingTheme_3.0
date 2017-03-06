@@ -1,11 +1,9 @@
-![screenshot](https://raw.github.com/jeffThompson/DarkProcessingTheme_3.0/master/screenshot.png)
+﻿![screenshot](https://raw.github.com/figurehe4d/DarkProcessingTheme_3.0/master/screenshot.png)
 
-Dark Processing Theme (for 3.0)
+Dark Processing Theme (for 3.0): Chilled Recolor
 ===================
 
-A dark theme for the Processing IDE (a little easier on the eyes!) for Processing 3.0.
-
-For a Processing 2.0 theme, see [this repository](https://github.com/jeffThompson/DarkProcessingTheme_2.0), for P5 1.5, see [this repo](https://github.com/jeffThompson/DarkProcessingTheme).
+A text recolor based off of [Dark Theme for Processing 3.0](https://github.com/jeffThompson/DarkProcessingTheme_3.0) by [jeffThompson](http://www.jeffreythompson.org). 
 
 \- \- \-
 
