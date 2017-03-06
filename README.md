@@ -45,4 +45,4 @@ You also can achieve the same result without having to change the rest of your p
 
 \- \- \-
 
-Released under [Creative Commons BY-NC-SA license](http://creativecommons.org/licenses/by-nc-sa/3.0/) - feel free to use but [please let me know](deft.motive@gmail.com).
+Released under [Creative Commons BY-NC-SA license](http://creativecommons.org/licenses/by-nc-sa/3.0/) - feel free to use.
