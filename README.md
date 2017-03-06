@@ -23,6 +23,7 @@ Replace your `preferences.txt` with mine, located in `%UserProfile%\AppData\Roam
 I'm sure you can figure this one out 😊
 
 \- \- \-
+
 You also can achieve the same result without having to change the rest of your preferences by editing these values in `preferences.txt`:
 
 `editor.token.comment1.style=#9e9e9e,plain`
