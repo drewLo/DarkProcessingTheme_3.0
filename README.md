@@ -7,8 +7,6 @@ A text recolor for use with [Dark Theme for Processing 3.0](https://github.com/j
 
 code snippet taken from [InterConnectivity](https://www.openprocessing.org/sketch/174460) by [Michael Pinn](https://www.openprocessing.org/user/39442).
 
-you can achieve the same result without having to change the rest of yoru preferences by editing these values:
-
 \- \- \-
 
 ## MAC INSTALLATION  
