@@ -27,21 +27,37 @@ You also can achieve the same result without having to change the rest of your p
 
 `
 editor.token.comment1.style=#9e9e9e,plain
+
 editor.token.comment2.style=#9e9e9e,plain
+
 editor.token.function1.style=#8c9eff,plain
+
 editor.token.function2.style=#8c9eff,plain
+
 editor.token.function3.style=#7986cb,plain
+
 editor.token.function4.style=#84ffff,bold
+
 editor.token.invalid.style=#9e9e9e,bold
+
 editor.token.keyword1.style=#90a4ae,plain
+
 editor.token.keyword2.style=#90a4ae,plain
+
 editor.token.keyword3.style=#7986cb,plain
+
 editor.token.keyword4.style=#18ffff,plain
+
 editor.token.keyword5.style=#c6ff00,plain
+
 editor.token.keyword6.style=#90a4ae,plain
+
 editor.token.label.style=#9e9e9e,bold
+
 editor.token.literal1.style=#78909c,plain
+
 editor.token.literal2.style=#c0ca33,plain
+
 editor.token.operator.style=#607d8b,plain
 `
 
