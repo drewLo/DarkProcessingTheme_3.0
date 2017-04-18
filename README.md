@@ -11,7 +11,7 @@ code snippet taken from [InterConnectivity](https://www.openprocessing.org/sketc
 
 ## MAC INSTALLATION  
 **PREFERENCES.TXT**  
-Replace your `preferences.txt` with this mine.
+Replace your `preferences.txt` with mine.
 
 ## WINDOWS INSTALLATION  
 **PREFERENCES.TXT**  
