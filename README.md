@@ -1,11 +1,11 @@
-![screenshot](https://raw.github.com/jeffThompson/DarkProcessingTheme_3.0/master/screenshot.png)
+﻿![screenshot](https://raw.github.com/figurehe4d/DarkProcessingTheme_3.0/master/screenshot.png)
 
-Dark Processing Theme (for 3.0)
+Dark Theme for Processing 3.0: Zerum Recolor
 ===================
 
-A dark theme for the Processing IDE (a little easier on the eyes!) for Processing 3.0.
+A text recolor for use with [Dark Theme for Processing 3.0](https://github.com/jeffThompson/DarkProcessingTheme_3.0) by [jeffThompson](http://www.jeffreythompson.org). 
 
-For a Processing 2.0 theme, see [this repository](https://github.com/jeffThompson/DarkProcessingTheme_2.0), for P5 1.5, see [this repo](https://github.com/jeffThompson/DarkProcessingTheme).
+code snippet taken from [InterConnectivity](https://www.openprocessing.org/sketch/174460) by [Michael Pinn](https://www.openprocessing.org/user/39442).
 
 \- \- \-
 
@@ -13,21 +13,36 @@ For a Processing 2.0 theme, see [this repository](https://github.com/jeffThompso
 **PREFERENCES.TXT**  
 Replace your `preferences.txt` with mine.
 
-**LIB FOLDER**  
-Look in `~/Applications/Processing.app/Contents/Java/lib`.
-Replace the files in your folder using the ones from this repository's `lib` folder (making a copy of the original in case you hate my changes!). This contains lots of changes, including all the button files. ***Don't copy the entire folder! Recent versions of the Processing app include files that, if removed, will break the IDE.***
-
 ## WINDOWS INSTALLATION  
 **PREFERENCES.TXT**  
 Replace your `preferences.txt` with mine, located in `%UserProfile%\AppData\Roaming\Processing\`.
 
-**LIB FOLDER**  
-Look in `%HomeDrive%\processing64\processing-3.2.1\lib\`.  
-[ See Mac instructions above for what to do. ]
-
 ## LINUX  
-If you're on Linux, you like a challenge – I'm sure you can figure this one out 😊
+I'm sure you can figure this one out 😊
 
 \- \- \-
 
-Released under [Creative Commons BY-NC-SA license](http://creativecommons.org/licenses/by-nc-sa/3.0/) - feel free to use but [please let me know](http://www.jeffreythompson.org).
+You also can achieve the same result without having to change the rest of your preferences by editing these values in `preferences.txt`:
+
+`editor.token.comment1.style=#9e9e9e,plain`
+`editor.token.comment2.style=#9e9e9e,plain`
+`editor.token.function1.style=#8c9eff,plain`
+`editor.token.function2.style=#8c9eff,plain`
+`editor.token.function3.style=#7986cb,plain`
+`editor.token.function4.style=#84ffff,bold`
+`editor.token.invalid.style=#9e9e9e,bold`
+`editor.token.keyword1.style=#90a4ae,plain`
+`editor.token.keyword2.style=#90a4ae,plain`
+`editor.token.keyword3.style=#7986cb,plain`
+`editor.token.keyword4.style=#18ffff,plain`
+`editor.token.keyword5.style=#c6ff00,plain`
+`editor.token.keyword6.style=#90a4ae,plain`
+`editor.token.label.style=#9e9e9e,bold`
+`editor.token.literal1.style=#78909c,plain`
+`editor.token.literal2.style=#c0ca33,plain`
+`editor.token.operator.style=#607d8b,plain`
+`run.window.bgcolor=#bdbdbd`
+
+\- \- \-
+
+Released under [Creative Commons BY-NC-SA license](http://creativecommons.org/licenses/by-nc-sa/3.0/) - feel free to use.
