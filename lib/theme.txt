@@ -56,7 +56,7 @@ buttons.bgcolor = #000000
 ## the larger divider on windows is ugly with the little arrows
 ## this makes it large enough to see (mouse changes) and use,
 ## but keeps it from being annoyingly obtrusive
-#divider.size.windows = 2
+divider.size.windows = 2
 
 divider.height = 9
 divider.color = #cccccc
@@ -80,7 +80,7 @@ mode.outline.color = #888888
 
 # foreground and background colors
 editor.fgcolor = #ffffff
-editor.bgcolor = #333333
+editor.bgcolor = #333333 
 
 editor.gradient.top = #101010
 editor.gradient.bottom = #000000
@@ -89,7 +89,7 @@ editor.gradient.bottom = #000000
 editor.linehighlight.color=#555555
 editor.linehighlight=true
 
-editor.caret.color = #333300
+editor.caret.color = #888888
 editor.selection.color = #eebb00
 
 # area that's not in use by the text (replaced with tildes)
